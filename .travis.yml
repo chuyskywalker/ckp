@@ -3,12 +3,9 @@ addons:
     packages:
       - python-pygments
 
-install:
-  - rm -rf public || exit 0
-
 script:
-  - cd src
-  - ../binaries/hugo --theme=ghoust
+  - rm -rf public || exit 0
+  - ./binaries/hugo -s site/ -d ../public
 
 deploy:
   provider: pages
