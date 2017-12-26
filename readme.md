@@ -7,7 +7,7 @@ A website for [celinakayporter.com](https://celinakayporter.com).
 ### Setup
 
 * Get a [github.com account](https://github.com/join).
-* Download a git (version control) client. Something like [Github Desktop](https://desktop.github.com/) or the [git cli program](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+* Download a git (version control) client. Something like [Github Desktop](https://desktop.github.com/) or the [git cli program](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Atlassian has [a concise mac tutorial for setup](https://www.atlassian.com/git/tutorials/install-git#mac-os-x).
 
 Clone the repo to your machine:
 
