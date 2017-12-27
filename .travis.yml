@@ -1,5 +1,7 @@
 script:
+  # Cleans out any possible old public directories -- just to be sure
   - rm -rf public || exit 0
+  # Builds the site into the public dir
   - ./binaries/hugo -s site/ -d ../public
 
 deploy:
