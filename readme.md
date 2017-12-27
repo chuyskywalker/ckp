@@ -21,7 +21,7 @@ Once the repository is on your computer, you can run `hugo` which will build the
 
 ```
 cd ckp
-./binaries/hugo.exe -s site/ server --disableFastRender
+./binaries/hugo.exe -s site/ --baseURL http://localhost server --disableFastRender
 ```
 
 Will start the local server, then simply visit [http://localhost:1313/ckp/](http://localhost:1313/ckp/) to see the site.
