@@ -55,6 +55,13 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/tags/collections/"
 
+[[menu.main]]
+  weight = 3
+  identifier = "Shows"
+  name = "Shows"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-eye\"></i>"
+  url = "/page/shows"
+
 #[[menu.main]]
 #  weight = 3
 #  identifier = "tags"
@@ -76,12 +83,12 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/page/about/"
 
-#[[menu.links]]
-#  weight = 1
-#  identifier = "github"
-#  name = "GitHub"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-#  url = "https://github.com/kakawait"
+[[menu.links]]
+  weight = 1
+  identifier = "facebook"
+  name = "Facebook"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
+  url = "https://www.facebook.com/celinakayporterdesigns"
 #[[menu.links]]
 #  weight = 2
 #  identifier = "stackoverflow"
@@ -202,10 +209,10 @@ canonifyurls = true
     icon = "fa-google-plus"
     url = "https://plus.google.com/share?url=%s"
 
-  [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
+#  [params.header.rightLink]
+#    class = ""
+#    icon = ""
+#    url = "/#about"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
