@@ -3,9 +3,13 @@ title: "Black"
 date: 2017-12-25
 tags:
 - Collections
+thumbnailImage: /img/black/thumb-nighty_side_stool.jpg
+thumbnailImagePosition: right
 ---
 
-A page dedicated to the people who think everything should be made in Black.
+A collection dedicated to the people who think everything should be made in Black.
+
+<!--more-->
 
  |  
 --- | ---

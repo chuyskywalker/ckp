@@ -7,6 +7,8 @@ tags:
 
 A retrospective collection. This collection combines pieces from each of the fashion shows produced over the past two years. 
 
+<!--more-->
+
 *Photography:* Derek Hart
 
 *Makeup:* Tatyana de Pavloff
