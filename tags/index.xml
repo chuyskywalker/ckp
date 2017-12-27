@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Celina Kay Porter</title>
+    <link>https://chuyskywalker.github.io/ckp/tags/</link>
+    <description>Recent content in Tags on Celina Kay Porter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chuyskywalker.github.io/ckp/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collections</title>
+      <link>https://chuyskywalker.github.io/ckp/tags/collections/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chuyskywalker.github.io/ckp/tags/collections/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

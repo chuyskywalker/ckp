@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/2017/12/black/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/2017/12/bloom/</loc>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/tags/collections/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/post/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/page/shows/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chuyskywalker.github.io/ckp/tags/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
